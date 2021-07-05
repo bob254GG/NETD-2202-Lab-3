@@ -1,7 +1,0 @@
-NETD 2202 – Lab 3
-This Lab assignment is an individual assignment. Submit your work via DC Connect by the due date provided.
-Client Requirements
-The client liked the Average.Weekly.Cases product so much that they decided to expand the scope of the project to include a comparative component. This revised solution will still take an input for each day in the week numbered from 1 to 7, but the functionality will be extended to record the information separately for 3 different jurisdictions, or “regions”. The user input will need to be validated and, if it passes validation, the data will be displayed to the user. Once the number of cases has been entered for the 7 full days for all 3 regions, the solution will calculate and display the average per region, as well as the overall average.
-As well, the solution will not allow the user to strike the enter key or input any more data until the form is Reset/Cleared. The user should be allowed to Exit at any time.
-You may choose to start from your original Lab 1 application or start fresh, but either way you are expected to maintain a copy of the original code for backwards compatibility. Thus, before starting, ensure your original Average Weekly Cases code has been Committed and Pushed to your GitHub repository.
-(If you have already negotiated with the professor that you will not make a GitHub account, both versions of the Average Weekly Cases project must be included in the same Visual Studio solution file.)
